@@ -8,7 +8,5 @@ print("5-902085925")
   
   secrets.SECRET_PASSWORD
   
-  alert("a")
-
         console.log(inputVal);
       }

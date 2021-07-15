@@ -1,7 +1,7 @@
 function getInputValue() {
 
 
-
+demoA()
   
         let inputVal = document.getElementById("inputId").value;
   

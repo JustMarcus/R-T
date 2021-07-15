@@ -1,6 +1,6 @@
 function getInputValue() {
 
-  document.getElementById("MyControl").className = "MyClass";
+
 
   
         let inputVal = document.getElementById("inputId").value;

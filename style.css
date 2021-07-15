@@ -3,6 +3,11 @@
   src: url(other/gothamrounded-book.otf);
 }
 
+
+#MyClass {
+color: rgb(255, 9, 9);
+}
+
 body {
   text-align: center;
   color: rgb(219, 235, 78);
@@ -25,7 +30,6 @@ body {
   }
 
   }
-
 
 #title {
   margin: 0;

@@ -5,7 +5,7 @@ function getInputValue() {
   
   secrets.SECRET_PASSWORD
   
-  alert(secrets.SECRET_PASSWORD)
+  alert("a")
 
         console.log(inputVal);
       }

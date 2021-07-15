@@ -39,6 +39,16 @@ body {
   text-align: center;  
 }
 
+#hiddentext {
+  
+  color: #000; /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0.5);
+
+    font-size: 16pt;
+    font-family: Arial, sans-serif;
+  
+}
+
 .topnav {
   overflow: hidden;
   background-color: #e9e9e900;

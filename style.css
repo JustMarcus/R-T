@@ -56,7 +56,6 @@ body {
 
 
 
-
 .button:active {
-  background: #dc143c;
+  background: #ff0000;
 }

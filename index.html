@@ -20,13 +20,13 @@
 <script>
 	function getInputValue() {
 		
-correct_password: ${{ secrets.SECRET_PASSWORD }}
+
 let inputVal = document.getElementById("inputId").value;
 		
 		if (inputVal === '27') {
 		alert("Correct!");	
 		} else {
-	alert(inputVal + "<-- Value. Correct password:" + correct_password);
+	alert(inputVal + "<-- Value. Correct password:" + secrets.SECRET_PASSWORD);
 	}
 }
 </script>

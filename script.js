@@ -7,7 +7,7 @@ function getInputValue() {
   
   secrets.SECRET_PASSWORD
   
-
+document.write(5 + 6)
   
         console.log(inputVal);
       }

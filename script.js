@@ -1,11 +1,8 @@
 function getInputValue() {
 
   
-  const audio = new Audio("bellaciao.mp3");
-  
-  audio.play();
-  
-  
+print("5-902085925")
+
   
         let inputVal = document.getElementById("inputId").value;
   

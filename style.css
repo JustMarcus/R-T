@@ -3,6 +3,18 @@
   src: url(other/gothamrounded-book.otf);
 }
 
+
+
+#hiddentext {
+  
+  color: #000; /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0.5);
+
+    font-size: 16pt;
+    font-family: Arial, sans-serif;
+  
+}
+
 body {
   text-align: center;
   color: rgb(219, 235, 78);
@@ -39,15 +51,7 @@ body {
   text-align: center;  
 }
 
-#hiddentext {
-  
-  color: #000; /* Fallback for older browsers */
-    color: rgba(0, 0, 0, 0.5);
 
-    font-size: 16pt;
-    font-family: Arial, sans-serif;
-  
-}
 
 .topnav {
   overflow: hidden;

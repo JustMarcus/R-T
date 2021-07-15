@@ -3,10 +3,6 @@
   src: url(other/gothamrounded-book.otf);
 }
 
-
-
-
-
 body {
   text-align: center;
   color: rgb(219, 235, 78);
@@ -42,8 +38,6 @@ body {
   font-size: calc(12px + 1vw);
   text-align: center;  
 }
-
-
 
 .topnav {
   overflow: hidden;
